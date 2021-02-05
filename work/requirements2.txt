@@ -1,0 +1,8 @@
+nltk
+pandas
+numpy
+matplotlib
+plotly.graph_objs
+plotly.offline
+plotly.express
+seaborn
